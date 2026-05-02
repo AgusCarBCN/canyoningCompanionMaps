@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Huesca-Guara",
+    "url": "https://192.168.1.70:8000/mbtiles/guara.mbtiles",
+    "image":"https://192.168.1.70:8000/images/Guara.jpg"
+  
+  },
+  {
+    "name": "Montserrat",
+    "url": "https://192.168.1.70:8000/mbtiles/montserrat.mbtiles",
+       "image":"https://192.168.1.70:8000/images/Montserrat.jpg"
+  },
+  {
+    "name": "Els Ports de Tortosa-Beseit",
+    "url": "https://192.168.1.70:8000/mbtiles/elsPorts.mbtiles",
+       "image":"https://192.168.1.70:8000/images/ElsPorts.jpg"  
+  },
+  {
+    "name": "Vall de Lord-Port del Comte",
+    "url": "https://192.168.1.70:8000/mbtiles/VallDeLord.mbtiles",
+       "image":"https://192.168.1.70:8000/images/VallDeLord.jpg"
+  }
+]
