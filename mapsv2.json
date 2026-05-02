@@ -1,23 +1,23 @@
 [
   {
     "name": "Huesca-Guara",
-    "url": "http://192.168.1.70:8000/mbtiles/guara.mbtiles",
-    "image":"http://192.168.1.70:8000/images/Guara.jpg"
+    "url": "http://canyoncompanion.duckdns.org/mbtiles/guara.mbtiles",
+    "image":"http://canyoncompanion.duckdns.org/images/Guara.jpg"
   
   },
   {
     "name": "Montserrat",
-    "url": "http://192.168.1.70:8000/mbtiles/montserrat.mbtiles",
-       "image":"http://192.168.1.70:8000/images/Montserrat.jpg"
+    "url": "http://canyoncompanion.duckdns.org/mbtiles/montserrat.mbtiles",
+       "image":"http://canyoncompanion.duckdns.org/images/Montserrat.jpg"
   },
   {
     "name": "Els Ports de Tortosa-Beseit",
-    "url": "http://192.168.1.70:8000/mbtiles/elsPorts.mbtiles",
-       "image":"http://192.168.1.70:8000/images/ElsPorts.jpg"  
+    "url": "http://canyoncompanion.duckdns.org/mbtiles/elsPorts.mbtiles",
+       "image":"http://canyoncompanion.duckdns.org/images/ElsPorts.jpg"  
   },
   {
     "name": "Vall de Lord-Port del Comte",
-    "url": "http://192.168.1.70:8000/mbtiles/VallDeLord.mbtiles",
-       "image":"http://192.168.1.70:8000/images/VallDeLord.jpg"
+    "url": "http://canyoncompanion.duckdns.org/mbtiles/VallDeLord.mbtiles",
+       "image":"http://canyoncompanion.duckdns.org/images/VallDeLord.jpg"
   }
 ]
